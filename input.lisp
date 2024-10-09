@@ -5,4 +5,3 @@
 
 (display (factorial 5))
 (newline)
-
